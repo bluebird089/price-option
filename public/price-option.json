@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Monthly Membership",
+        "description": "Get unlimited access to the gym facilities for a month.",
+        "price": 49.99,
+        "validity": "30 days",
+        "discount": "10% off for students",
+        "features": [
+            "Unlimited gym access",
+            "Access to group fitness classes",
+            "Personalized fitness assessment",
+            "Access to swimming pool",
+            "Towel service included"
+        ]
+    },
+    {
+        "name": "Annual Membership (with Discount)",
+        "description": "Commit for a year and save!",
+        "price": 499.99,
+        "validity": "365 days",
+        "discount": "Save 20% compared to monthly membership",
+        "features": [
+            "Unlimited gym access",
+            "Access to group fitness classes",
+            "Personalized fitness assessment",
+            "Free personal trainer sessions (4 sessions/year)",
+            "Access to sauna and steam room"
+        ]
+    },
+    {
+        "name": "Day Pass",
+        "description": "Enjoy a single day of access to the gym and its amenities.",
+        "price": 10.99,
+        "validity": "1 day",
+        "features": [
+            "Single-day gym access",
+            "Access to group fitness classes for the day",
+            "No commitment required",
+            "Access to locker rooms",
+            "Parking included"
+        ]
+    }
+]
